@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\Task_17\bin\Debug\Task_17.exe.config
+C:\Users\Admin\source\repos\Task_17\bin\Debug\Task_17.exe
+C:\Users\Admin\source\repos\Task_17\bin\Debug\Task_17.pdb
+C:\Users\Admin\source\repos\Task_17\obj\Debug\Task_17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task_17\obj\Debug\Task_17.exe
+C:\Users\Admin\source\repos\Task_17\obj\Debug\Task_17.pdb
