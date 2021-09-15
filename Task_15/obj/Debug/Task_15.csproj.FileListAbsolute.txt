@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Task_15\bin\Debug\Task_15.exe.config
+C:\Users\Admin\source\repos\Task_15\bin\Debug\Task_15.exe
+C:\Users\Admin\source\repos\Task_15\bin\Debug\Task_15.pdb
+C:\Users\Admin\source\repos\Task_15\obj\Debug\Task_15.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Task_15\obj\Debug\Task_15.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Task_15\obj\Debug\Task_15.exe
+C:\Users\Admin\source\repos\Task_15\obj\Debug\Task_15.pdb
